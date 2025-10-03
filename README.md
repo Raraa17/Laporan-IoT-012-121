@@ -26,7 +26,7 @@ Semakin dekat jarak yang diukur maka lampu LED dan buzzer akan menyala, sedangka
 const char* ssid = "NAMA_WIFI";
 const char* password = "PASSWORD_WIFI";
 
-String apiKey = "API_KEY_KAMU";  
+String apiKey = "N911SWVWJR597HQ3";  
 const char* server = "http://api.thingspeak.com/update";
 ```
 - Ssid dan password → kredensial WiFi agar ESP32 bisa terhubung ke internet.
