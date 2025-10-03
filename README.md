@@ -129,6 +129,11 @@ delay(15000); // ThingSpeak limit: 15 detik per update
 ```
 
 ## Dokumentasi
+![WhatsApp Image 2025-10-03 at 12 43 07_322eed15](https://github.com/user-attachments/assets/e0554e59-3840-4b8a-81b5-8a5f9c892a45)
+
+
+https://github.com/user-attachments/assets/1116f03b-ea49-4737-9b92-6ac8a59d5923
+
 
 
 
